@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#main h1{
+	color: white;
+	background-color: black;
+	font-family: Arial;
+	height: 60px;
+}
+
+#navbar{
+	background-color: red;
+	color: #333;
+}
+
+#navbar nav{
+
+}
+
+nav li{
+	display: inline-block;
+	padding: 20px;
+}
+
+li a{
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+
+}
+
+li a:hover{
+	color: #3DFF00;
+	background-color: #333;
+}
